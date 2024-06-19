@@ -1,0 +1,14 @@
+
+Functionality:
+    - New Contact                           |
+    - Remove a Contact                      |
+    - view all contacts                     |
+    - search for a contact by name          |
+____________________________________________|
+           Steps                                       | States
+create database - step 1                               \ In Progress
+
+
+check their name on database - step 2                  \ incomplete
+Add new user contacts - step  3                        \ incomplete
+
