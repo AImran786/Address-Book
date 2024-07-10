@@ -37,7 +37,7 @@ print(add_user)
 check_inserted_data = verfy_data_in_table()
 print(check_inserted_data)
 
-
+retreave_certain_data("Agha Muhammad",'Imran')
 
 
 
